@@ -30,7 +30,7 @@ Welcome to **My Stunning Blog** – a simple, beautiful, and responsive personal
 ## Live Demo
 
 Click here to view the live site:  
-**(https://rahab19.github.io/feb-2025-final-project-and-deployment-Rahab19/)**  
+**https://rahab19.github.io/feb-2025-final-project-and-deployment-Rahab19/**  
 ---
 
 ## Clone This Project
