@@ -157,16 +157,15 @@ form button:hover {
 }
 
 .profile-img {
-  width: 150px;        
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;  
-  border: 3px solid #ccc;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 150px;          
+  height: 150px;         
+  object-fit: cover;     
+  border-radius: 50%;    
+  border: 3px solid #ccc; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
   display: block;
-  margin: 0 auto;      
+  margin: 0 auto;        
 }
-
 
 
 footer {
